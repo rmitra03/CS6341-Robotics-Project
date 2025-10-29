@@ -11,3 +11,5 @@ venv/
 # PyBullet/simulation outputs
 *.png
 camera_view.png
+original_image.png
+color_detection_result.png
