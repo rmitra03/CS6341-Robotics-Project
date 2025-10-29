@@ -47,8 +47,6 @@ for i in range(200):
     p.stepSimulation()
     time.sleep(1./240.)
 
-# ========== CAMERA SETUP ==========
-
 # Camera position and orientation
 camera_position = [0.2, -0.5, 0.5]  # x, y, z position
 target_position = [0.2, 0, 0.05]     # where camera looks at
